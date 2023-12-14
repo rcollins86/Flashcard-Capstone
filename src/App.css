@@ -1,0 +1,26 @@
+button.delete-button {
+    background-color:red;
+}
+
+button.view-button {
+    background-color:gray;
+}
+
+button.study-button, .create-button {
+    background-color:lightblue;
+}
+
+div.deck-display, .study-display-card, .card-display {
+    border-style:solid;
+    padding: 5px;
+    margin: 5px;
+}
+
+.deck-count {
+    color:rgb(100, 100, 100)
+}
+
+.nav-container {
+    background-color: lightgray;
+    padding: 15px
+}
